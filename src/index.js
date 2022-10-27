@@ -1,4 +1,5 @@
 import "./main.css"
+import "./color.scss"
 import { hello, monsters, date } from "./components.js"
 
 // commonjs
